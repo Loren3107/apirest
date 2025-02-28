@@ -1,9 +1,13 @@
 Lucas Orrego Martinez,
 
 Alejandro Salazar Espinal,
+
 Samuel Vargas Jaramillo,
+
 Daniel David Bedoya, 
+
 Loren Sofia Quintero Padierna. 
+
 Seccion 10 de grado 11
 
 Este proyecto Sirve para hacer un CRUD, se conecta con 2 bases de datos.
